@@ -1,5 +1,5 @@
 ##############################
-# ZxCDDoS Made by zxcr9999   #
+# ZARNET Made by •Louis•#2044#
 # COPY = NIGGER              #
 ##############################
 
@@ -10,6 +10,8 @@ import random
 import getpass
 import time
 import sys
+
+os.system('Title Made by Louis')
 
 def clear():
     os.system('cls' if os.name == 'nt' else 'clear')
@@ -235,14 +237,6 @@ def main():
             layer7()
         elif cnc == "layer4" or cnc == "LAYER4" or cnc == "L4" or cnc == "l4":
             layer4()
-        elif cnc == "special" or cnc == "SPECIAL" or cnc == "specialS" or cnc == "SPECIALS":
-            special()
-        elif cnc == "clear" or cnc == "CLEAR" or cnc == "CLS" or cnc == "cls":
-            main()
-        elif cnc == "ports" or cnc == "port" or cnc == "PORTS" or cnc == "PORT":
-            ports()
-        elif cnc == "tools" or cnc == "tool" or cnc == "TOOLS" or cnc == "TOOL":
-            tools()
 
 # LAYER 4 METHODS   
 
@@ -738,8 +732,6 @@ CLEAR   ► CLEAR TERMINAL
 
 def login():
     clear()
-    user = "admin"
-    passwd = "Louis1603"
     user = "zar"
     passwd = "projectzar"
     username = input("⚡ Username: ")
